@@ -1,0 +1,344 @@
+[2022-05-09 22:19:38.151] [exthost] [info] Extension host with pid 78745 started
+[2022-05-09 22:19:38.151] [exthost] [info] Skipping acquiring lock for /home/jbernardis/.config/Code/User/workspaceStorage/b5deaad44945fbf8d8baa74ce5a55bce.
+[2022-05-09 22:19:38.198] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-09 22:19:38.380] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-09 22:19:38.477] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-09 22:19:38.479] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-09 22:19:38.482] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-09 22:19:38.488] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-05-09 22:19:38.556] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-09 22:19:38.570] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-09 22:19:38.734] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-05-09 22:19:38.736] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-09 22:19:38.829] [exthost] [info] Eager extensions activated
+[2022-05-09 22:19:38.844] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-09 22:19:38.849] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-09 22:19:38.851] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-09 22:27:06.168] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:27:06.168] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:07.536] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:27:07.536] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:08.576] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:27:08.576] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:11.088] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:27:11.088] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:12.800] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:27:12.800] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:14.944] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:27:14.944] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:15.912] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:27:15.912] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:16.928] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:27:16.928] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:17.304] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:27:17.304] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:18.376] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:27:18.376] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:18.905] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:27:18.905] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:34.023] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:27:34.023] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:34.392] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:27:34.392] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:37:10.140] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:37:10.140] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:42.378] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:54:42.378] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:44.234] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:54:44.234] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:44.978] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:54:44.978] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:45.594] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:54:45.594] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:47.913] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:54:47.913] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:48.650] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:54:48.650] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:52.898] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:54:52.898] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:56.281] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:54:56.281] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:57.515] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 22:54:57.515] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:01:01.224] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-05-09 23:01:01.224] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-05-09 23:01:30.774] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 23:01:30.774] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:01:31.830] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 23:01:31.830] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:01:32.358] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 23:01:32.358] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:01:33.310] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 23:01:33.310] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:01:33.844] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 23:01:33.844] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:01:34.397] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 23:01:34.398] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:01:35.789] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 23:01:35.789] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:01:36.526] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 23:01:36.526] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:01:37.054] [exthost] [error] [ms-python.python] provider FAILED
+[2022-05-09 23:01:37.054] [exthost] [error] Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:04:45.685] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-05-09 23:04:45.685] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-05-09 23:04:46.049] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-05-09 23:04:46.049] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-05-09 23:04:47.982] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.
+[2022-05-09 23:04:47.982] [exthost] [warning] ms-python.python - Code actions of kind 'quickfix 'requested but returned code action is of kind 'refactor.extract'. Code action will be dropped. Please check 'CodeActionContext.only' to only return requested code actions.

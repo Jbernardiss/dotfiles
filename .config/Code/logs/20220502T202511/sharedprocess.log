@@ -1,0 +1,22 @@
+[2022-05-02 20:25:13.117] [sharedprocess] [info] Starting worker process with pid 2730 (type: fileWatcher, window: 1).
+[2022-05-02 20:25:15.316] [sharedprocess] [info] Getting Manifest... ms-vscode.js-debug-companion
+[2022-05-02 20:25:15.317] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-05-02 20:25:15.317] [sharedprocess] [info] Getting Manifest... ms-vscode-remote.remote-wsl
+[2022-05-02 20:25:15.492] [sharedprocess] [info] Installing extension: ms-vscode.js-debug-companion
+[2022-05-02 20:25:15.951] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-05-02 20:25:15.963] [sharedprocess] [info] Installing extension: ms-vscode-remote.remote-wsl
+[2022-05-02 20:25:16.161] [sharedprocess] [info] Downloaded extension: ms-vscode.js-debug-companion /home/jbernardis/.config/Code/CachedExtensionVSIXs/ms-vscode.js-debug-companion-1.0.18
+[2022-05-02 20:25:16.182] [sharedprocess] [info] Extracted extension to /home/jbernardis/.vscode/extensions/.0ae5e973-0f23-4d00-9bb8-7ffdab3ef7bf: ms-vscode.js-debug-companion
+[2022-05-02 20:25:16.184] [sharedprocess] [info] Renamed to /home/jbernardis/.vscode/extensions/ms-vscode.js-debug-companion-1.0.18
+[2022-05-02 20:25:16.185] [sharedprocess] [info] Extracting completed. ms-vscode.js-debug-companion
+[2022-05-02 20:25:16.187] [sharedprocess] [info] Extension installed successfully: ms-vscode.js-debug-companion
+[2022-05-02 20:25:17.274] [sharedprocess] [info] Downloaded extension: ms-vscode-remote.remote-wsl /home/jbernardis/.config/Code/CachedExtensionVSIXs/ms-vscode-remote.remote-wsl-0.66.2
+[2022-05-02 20:25:17.317] [sharedprocess] [info] Extracted extension to /home/jbernardis/.vscode/extensions/.442d00c6-86a8-415e-a5f6-0db7e89e126d: ms-vscode-remote.remote-wsl
+[2022-05-02 20:25:17.319] [sharedprocess] [info] Renamed to /home/jbernardis/.vscode/extensions/ms-vscode-remote.remote-wsl-0.66.2
+[2022-05-02 20:25:17.320] [sharedprocess] [info] Extracting completed. ms-vscode-remote.remote-wsl
+[2022-05-02 20:25:17.321] [sharedprocess] [info] Extension installed successfully: ms-vscode-remote.remote-wsl
+[2022-05-02 20:25:19.056] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/jbernardis/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.4.3
+[2022-05-02 20:25:20.471] [sharedprocess] [info] Extracted extension to /home/jbernardis/.vscode/extensions/.9f047903-da61-4c39-96cb-f7ce81ce3bcc: ms-python.vscode-pylance
+[2022-05-02 20:25:20.479] [sharedprocess] [info] Renamed to /home/jbernardis/.vscode/extensions/ms-python.vscode-pylance-2022.4.3
+[2022-05-02 20:25:20.480] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-05-02 20:25:20.482] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

@@ -1,0 +1,15 @@
+[Info  - 11:22:58 PM] (26194) Pylance language server 2022.4.3 (pyright 88f2a424) starting
+[Info  - 11:22:58 PM] (26194) Server root directory: /home/jbernardis/.vscode/extensions/ms-python.vscode-pylance-2022.4.3/dist
+[Info  - 11:22:58 PM] (26194) No configuration file found.
+[Info  - 11:22:58 PM] (26194) No pyproject.toml file found.
+[Info  - 11:22:58 PM] (26194) Setting pythonPath for service "qtile": "/bin/python"
+[Warn  - 11:22:58 PM] (26194) stubPath /home/jbernardis/.config/qtile/typings is not a valid directory.
+[Info  - 11:22:58 PM] (26194) Assuming Python version 3.10
+[Info  - 11:22:58 PM] (26194) Assuming Python platform Linux
+[Info  - 11:22:58 PM] (26194) Searching for source files
+[Info  - 11:22:58 PM] (26194) Found 2 source files
+[Info  - 11:22:59 PM] (26194) Background analysis(1) root directory: /home/jbernardis/.vscode/extensions/ms-python.vscode-pylance-2022.4.3/dist
+[Info  - 11:22:59 PM] (26194) Background analysis(1) started
+[Info  - 11:22:59 PM] (26194) Indexer background runner(2) root directory: /home/jbernardis/.vscode/extensions/ms-python.vscode-pylance-2022.4.3/dist (index)
+[Info  - 11:22:59 PM] (26194) Indexing(2) started
+[Info  - 11:22:59 PM] (26194) Indexer done(2). indexed 449 files

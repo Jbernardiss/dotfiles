@@ -1,0 +1,56 @@
+
+
+Config {
+
+    --appearance
+      font =        "xft:Fira Code:antialias=true"
+    , bgColor =     "#0C1A26"
+    , fgColor =     "#ECFFFF"
+    , border =      BottomB
+    , borderColor = "#037F8C"
+    , position =   TopW L 100
+
+    --layout
+    , sepChar =  "%"   -- delineator between plugin names and straight text
+    , alignSep = "}{"  -- separator between left-right alignment
+    , template = "%battery% | %multicpu% | %coretemp% | %memory% | %eno1% }{ %SBKP% | %date% || %kbd% "
+    
+    --general behavior
+    , lowerOnStart =     True    -- send to bottom of window stack on start
+    , hideOnStart =      False   -- start with window unmapped (hidden)
+    , allDesktops =      True    -- show on all desktops
+    , overrideRedirect = True    -- set the Override Redirect flag (Xlib)
+    , pickBroadest =     False   -- choose widest display (multi-monitor)
+    , persistent =       True    -- enable/disable hiding (True = disabled)	
+    
+    -- plugins
+    --   Numbers can be automatically colored according to their value. xmobar
+    --   decides color based on a three-tier/two-cutoff system, controlled by
+    --   command options:
+    --     --Low sets the low cutoff
+    --     --High sets the high cutoff
+    --
+    --     --low sets the color below --Low cutoff
+    --     --normal sets the color between --Low and --High cutoffs
+    --     --High sets the color above --High cutoff
+    --
+    --   The --template option controls how the plugin is displayed. Text
+    --   color can be set by enclosing in <fc></fc> tags. For more details
+    --   see http://projects.haskell.org/xmobar/#system-monitor-plugins.
+    , commands = [
+          Run Weather "SBKP" [ 
+              "-t", "<skyCondition> | <fc=#4682B4><tempC></fc>C | <fc=#4682B4><rh></fc>% | <fc=#4682B4><pressure></fc>hPa"
+        ] 36000
+
+        -- network activity monitor (dynamic interface resolution)
+        , Run Network "eno1" [
+            "-t", "<dev>: <rx>|<tx>"
+        ] 10
+
+        , Run Memory [
+            "-t", "U: <used> | F: <free>"
+        ]
+
+        ]   
+    ]
+}

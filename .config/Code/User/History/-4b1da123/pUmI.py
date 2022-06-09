@@ -1,0 +1,3 @@
+
+def saySometing(func):
+    

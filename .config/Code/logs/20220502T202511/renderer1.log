@@ -1,0 +1,13 @@
+[2022-05-02 20:25:12.545] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-05-02 20:25:12.546] [renderer1] [warning] [twxs.cmake]: Cannot register 'cmake.cmakePath'. This property is already registered.
+[2022-05-02 20:25:12.763] [renderer1] [error] ["Error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files"]
+[2022-05-02 20:25:12.763] [renderer1] [warning] Settings Sync: Accounts are not initialized
+[2022-05-02 20:25:12.837] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-05-02 20:25:13.503] [renderer1] [error] [Extension Host] (node:2672) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-05-02 20:25:20.021] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/jbernardis/.config/qtile/config.py' (Error: File Modified Since) file:///home/jbernardis/.config/qtile/config.py
+[2022-05-02 20:25:44.392] [renderer1] [error] [text file model] handleSaveError(0) - exit - resulted in a save error: Error: Unable to write file '/home/jbernardis/.config/qtile/config.py' (Error: File Modified Since) file:///home/jbernardis/.config/qtile/config.py
+[2022-05-02 20:25:55.843] [renderer1] [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: Unable to write file '/home/jbernardis/.config/qtile/config.py' (Error: File Modified Since) file:///home/jbernardis/.config/qtile/config.py
+[2022-05-02 20:26:08.468] [renderer1] [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: Unable to write file '/home/jbernardis/.config/qtile/config.py' (Error: File Modified Since) file:///home/jbernardis/.config/qtile/config.py
+[2022-05-02 20:26:09.527] [renderer1] [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: Unable to write file '/home/jbernardis/.config/qtile/config.py' (Error: File Modified Since) file:///home/jbernardis/.config/qtile/config.py
+[2022-05-02 20:26:19.849] [renderer1] [error] [text file model] handleSaveError(2) - exit - resulted in a save error: Error: Unable to write file '/home/jbernardis/.config/qtile/config.py' (Error: File Modified Since) file:///home/jbernardis/.config/qtile/config.py

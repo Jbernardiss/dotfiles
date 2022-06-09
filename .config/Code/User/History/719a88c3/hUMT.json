@@ -1,0 +1,6 @@
+{
+    "workbench.colorTheme": "Dracula",
+    "editor.fontFamily": "'FiraCode Nerd Font', monospace",
+    "editor.fontLigatures": true,
+    "terminal.integrated.defaultProfile.linux": "zsh"
+}

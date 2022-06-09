@@ -1,0 +1,8 @@
+[FileDialogSize]
+HDMI-0 Height 1366x768=512
+HDMI-0 Width 1366x768=884
+
+[KFileDialog Settings]
+Recent Files[$e]=file:$HOME/Downloads/Layan.tar.xz,file:$HOME/Downloads/Custom TLE.layout.latte
+Recent URLs[$e]=file:$HOME/Downloads/,file:$HOME/Documents/
+detailViewIconSize=16

@@ -1,0 +1,214 @@
+[2022-05-09 22:19:37.681] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-05-09 22:19:37.900] [renderer1] [error] ["Error: GDBus.Error:org.freedesktop.DBus.Error.ServiceUnknown: The name org.freedesktop.secrets was not provided by any .service files"]
+[2022-05-09 22:19:37.900] [renderer1] [warning] Settings Sync: Accounts are not initialized
+[2022-05-09 22:19:37.955] [renderer1] [info] Ignoring configured affinity for 'pub.name' because the extension is unknown or cannot execute.
+[2022-05-09 22:19:38.705] [renderer1] [error] [Extension Host] (node:78745) [DEP0005] DeprecationWarning: Buffer() is deprecated due to security and usability issues. Please use the Buffer.alloc(), Buffer.allocUnsafe(), or Buffer.from() methods instead.
+(Use `code --trace-deprecation ...` to show where the warning was created)
+[2022-05-09 22:19:42.943] [renderer1] [warning] [/home/jbernardis/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.2.0]: property `extensionKind` can be defined only if property `main` is also defined.
+[2022-05-09 22:27:06.169] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:07.538] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:08.576] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:11.089] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:12.800] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:14.945] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:16.929] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:18.377] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:27:34.023] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:37:10.141] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:42.379] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:44.235] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:45.594] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:47.913] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:52.898] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:56.283] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 22:54:57.516] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:01:30.775] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:01:31.831] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:01:33.311] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:01:34.399] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:01:35.790] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)
+[2022-05-09 23:01:37.055] [renderer1] [error] name must not be falsy: Error: name must not be falsy
+	at Function.validate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100459)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:100408)
+	at new i (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:76:86837)
+	at V (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:215881)
+	at Array.map (<anonymous>)
+	at Object.asDocumentSymbols (/home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:47:221219)
+	at /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1/out/client/extension.js:24:125724
+	at async S.provideDocumentSymbols (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:85:95522)

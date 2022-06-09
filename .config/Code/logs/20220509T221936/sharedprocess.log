@@ -1,0 +1,15 @@
+[2022-05-09 22:19:38.052] [sharedprocess] [info] Deleted from disk jeff-hykin.better-cpp-syntax /home/jbernardis/.vscode/extensions/jeff-hykin.better-cpp-syntax-1.15.13
+[2022-05-09 22:19:38.061] [sharedprocess] [info] Deleted from disk justusadam.language-haskell /home/jbernardis/.vscode/extensions/justusadam.language-haskell-3.6.0
+[2022-05-09 22:19:38.061] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-wsl /home/jbernardis/.vscode/extensions/ms-vscode-remote.remote-wsl-0.66.2
+[2022-05-09 22:19:38.188] [sharedprocess] [info] Deleted from disk ms-vscode.cmake-tools /home/jbernardis/.vscode/extensions/ms-vscode.cmake-tools-1.10.5
+[2022-05-09 22:19:38.251] [sharedprocess] [info] Deleted from disk cschlosser.doxdocgen /home/jbernardis/.vscode/extensions/cschlosser.doxdocgen-1.4.0
+[2022-05-09 22:19:38.291] [sharedprocess] [info] Deleted from disk twxs.cmake /home/jbernardis/.vscode/extensions/twxs.cmake-0.0.17
+[2022-05-09 22:19:38.291] [sharedprocess] [info] Starting worker process with pid 79399 (type: fileWatcher, window: 1).
+[2022-05-09 22:19:38.300] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-containers /home/jbernardis/.vscode/extensions/ms-vscode-remote.remote-containers-0.231.6
+[2022-05-09 22:19:41.044] [sharedprocess] [info] Getting Manifest... ms-vscode.cpptools-extension-pack
+[2022-05-09 22:19:41.839] [sharedprocess] [info] Installing extension: ms-vscode.cpptools-extension-pack
+[2022-05-09 22:19:42.918] [sharedprocess] [info] Downloaded extension: ms-vscode.cpptools-extension-pack /home/jbernardis/.config/Code/CachedExtensionVSIXs/ms-vscode.cpptools-extension-pack-1.2.0
+[2022-05-09 22:19:42.932] [sharedprocess] [info] Extracted extension to /home/jbernardis/.vscode/extensions/.aa14d18b-fbcd-4e70-8625-e43d5016d54c: ms-vscode.cpptools-extension-pack
+[2022-05-09 22:19:42.934] [sharedprocess] [info] Renamed to /home/jbernardis/.vscode/extensions/ms-vscode.cpptools-extension-pack-1.2.0
+[2022-05-09 22:19:42.934] [sharedprocess] [info] Extracting completed. ms-vscode.cpptools-extension-pack
+[2022-05-09 22:19:42.936] [sharedprocess] [info] Extension installed successfully: ms-vscode.cpptools-extension-pack

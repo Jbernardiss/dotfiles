@@ -1,0 +1,22 @@
+[2022-05-04 23:58:05.171] [sharedprocess] [info] Starting worker process with pid 489040 (type: fileWatcher, window: 1).
+[2022-05-05 00:17:31.773] [sharedprocess] [info] Uninstalling extension: jeff-hykin.better-cpp-syntax
+[2022-05-05 00:17:31.903] [sharedprocess] [info] Detected extension removed from another source jeff-hykin.better-cpp-syntax
+[2022-05-05 00:17:32.141] [sharedprocess] [info] Successfully uninstalled extension: jeff-hykin.better-cpp-syntax
+[2022-05-05 00:17:44.092] [sharedprocess] [info] Uninstalling extension: twxs.cmake
+[2022-05-05 00:17:44.216] [sharedprocess] [info] Detected extension removed from another source twxs.cmake
+[2022-05-05 00:17:44.486] [sharedprocess] [info] Successfully uninstalled extension: twxs.cmake
+[2022-05-05 00:17:46.213] [sharedprocess] [info] Uninstalling extension: ms-vscode.cmake-tools
+[2022-05-05 00:17:46.334] [sharedprocess] [info] Detected extension removed from another source ms-vscode.cmake-tools
+[2022-05-05 00:17:46.578] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode.cmake-tools
+[2022-05-05 00:18:04.796] [sharedprocess] [info] Uninstalling extension: cschlosser.doxdocgen
+[2022-05-05 00:18:04.926] [sharedprocess] [info] Detected extension removed from another source cschlosser.doxdocgen
+[2022-05-05 00:18:05.174] [sharedprocess] [info] Successfully uninstalled extension: cschlosser.doxdocgen
+[2022-05-05 00:18:10.637] [sharedprocess] [info] Uninstalling extension: justusadam.language-haskell
+[2022-05-05 00:18:10.747] [sharedprocess] [info] Detected extension removed from another source justusadam.language-haskell
+[2022-05-05 00:18:10.996] [sharedprocess] [info] Successfully uninstalled extension: justusadam.language-haskell
+[2022-05-05 00:18:22.398] [sharedprocess] [info] Uninstalling extension: ms-vscode-remote.remote-containers
+[2022-05-05 00:18:22.515] [sharedprocess] [info] Detected extension removed from another source ms-vscode-remote.remote-containers
+[2022-05-05 00:18:22.760] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode-remote.remote-containers
+[2022-05-05 00:18:33.348] [sharedprocess] [info] Uninstalling extension: ms-vscode-remote.remote-wsl
+[2022-05-05 00:18:33.462] [sharedprocess] [info] Detected extension removed from another source ms-vscode-remote.remote-wsl
+[2022-05-05 00:18:33.729] [sharedprocess] [info] Successfully uninstalled extension: ms-vscode-remote.remote-wsl

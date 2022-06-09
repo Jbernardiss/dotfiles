@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =6
+let g:netrw_dirhist_6='/etc/X11/xorg.conf.d'
+let g:netrw_dirhist_5='/home/jbernardis/.config/qtile'
+let g:netrw_dirhist_4='/home/jbernardis/.config/awesome'
+let g:netrw_dirhist_3='/home/jbernardis/.vscode/extensions/dracula-theme.theme-dracula-2.24.2/theme'
+let g:netrw_dirhist_2='/home/jbernardis/.vscode/extensions/dracula-theme.theme-dracula-2.24.2'
+let g:netrw_dirhist_1='/home/jbernardis/.vscode/extensions'
+let g:netrw_dirhist_0='/home/jbernardis/.vscode'
+let g:netrw_dirhist_9='/etc/X11/xorg.conf.d'
+let g:netrw_dirhist_8='/home/jbernardis'
+let g:netrw_dirhist_7='/home/jbernardis/Documents'

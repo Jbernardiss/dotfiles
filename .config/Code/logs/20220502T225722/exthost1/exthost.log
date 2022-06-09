@@ -1,0 +1,20 @@
+[2022-05-02 22:57:24.228] [exthost] [info] Extension host with pid 20966 started
+[2022-05-02 22:57:24.228] [exthost] [info] Skipping acquiring lock for /home/jbernardis/.config/Code/User/workspaceStorage/b5deaad44945fbf8d8baa74ce5a55bce.
+[2022-05-02 22:57:24.276] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-02 22:57:24.456] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-02 22:57:24.545] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-05-02 22:57:24.546] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-05-02 22:57:24.547] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-05-02 22:57:24.552] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-05-02 22:57:24.839] [exthost] [info] ExtensionService#_doActivateExtension vscode.git, startup: true, activationEvent: '*'
+[2022-05-02 22:57:24.850] [exthost] [info] ExtensionService#_doActivateExtension vscode.github, startup: true, activationEvent: '*'
+[2022-05-02 22:57:24.990] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter-renderers, startup: false, activationEvent: 'api', root cause: ms-toolsai.jupyter
+[2022-05-02 22:57:24.991] [exthost] [info] ExtensionService#_doActivateExtension ms-python.vscode-pylance, startup: false, activationEvent: 'onLanguage:python'
+[2022-05-02 22:57:25.172] [exthost] [info] Eager extensions activated
+[2022-05-02 22:57:25.195] [exthost] [info] ExtensionService#_doActivateExtension vscode.emmet, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-02 22:57:25.199] [exthost] [info] ExtensionService#_doActivateExtension vscode.merge-conflict, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-02 22:57:25.200] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-containers, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-02 22:57:25.217] [exthost] [info] ExtensionService#_doActivateExtension ms-vscode-remote.remote-wsl, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-02 22:57:25.244] [exthost] [info] ExtensionService#_doActivateExtension ritwickdey.LiveServer, startup: false, activationEvent: 'onStartupFinished'
+[2022-05-02 23:20:18.522] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-05-02 23:20:18.534] [exthost] [info] Extension host with pid 20966 exiting with code 0

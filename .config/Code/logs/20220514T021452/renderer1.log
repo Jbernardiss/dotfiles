@@ -1,0 +1,38 @@
+[2022-05-14 02:14:54.158] [renderer1] [critical] Extension 'ms-toolsai.jupyter' wants API proposal 'notebookConcatTextDocument' but that proposal DOES NOT EXIST. Likely, the proposal has been finalized (check 'vscode.d.ts') or was abandoned.
+[2022-05-14 02:14:54.158] [renderer1] [critical] Extension 'ms-toolsai.jupyter' appears in product.json but enables LESS API proposals than the extension wants.
+package.json (LOSES): notebookControllerKind, notebookDebugOptions, notebookDeprecated, notebookEditor, notebookEditorDecorationType, notebookEditorEdit, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, textDocumentNotebook, quickPickSortByLabel
+product.json (WINS): notebookControllerKind, notebookDebugOptions, notebookDeprecated, notebookEditor, notebookEditorDecorationType, notebookEditorEdit, notebookMessaging, notebookMime, notebookCellExecutionState, portsAttributes, quickPickSortByLabel
+[2022-05-14 02:14:55.430] [renderer1] [error] [Extension Host] extension activation failed TypeError: s.notebooks.onDidChangeCellMetadata is not a function
+	at u.addEventHandlers (/home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:735175)
+	at new u (/home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:733840)
+	at Object.t.resolveInstance (/home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2667221)
+	at /home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2669159
+	at Array.map (<anonymous>)
+	at Object.t.resolveInstance (/home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2666995)
+	at /home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2669159
+	at Object.t.resolve (/home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2669422)
+	at /home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2652835
+	at e._get (/home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2652601)
+	at e.get (/home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2651244)
+	at e.dynamicValue (/home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2674821)
+	at /home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2668648
+	at c (/home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2667664)
+	at /home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2668588
+	at /home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2668077
+	at Array.map (<anonymous>)
+	at /home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2668049
+	at Array.map (<anonymous>)
+	at Object.t.resolveInstance (/home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2666995)
+	at /home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2669159
+	at Object.t.resolve (/home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2669422)
+	at /home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2652835
+	at e._get (/home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2652601)
+	at e.get (/home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:2651244)
+	at a.get (/home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:1109349)
+	at /home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:4538183
+	at processTicksAndRejections (node:internal/process/task_queues:96:5)
+	at async /home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:4535892
+	at async e.activate (/home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801/out/extension.js:2:4535127)
+	at async _activate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:8180)
+	at async _waitForDepsThenActivate (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:8122)
+	at async _initialize (/opt/visual-studio-code/resources/app/out/vs/workbench/api/node/extensionHostProcess.js:83:7486)

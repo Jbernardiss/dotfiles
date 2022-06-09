@@ -1,0 +1,12 @@
+[2022-05-23 22:31:37.552] [sharedprocess] [info] Starting worker process with pid 64304 (type: fileWatcher, window: 1).
+[2022-05-23 22:31:37.690] [sharedprocess] [info] Deleted from disk ms-vscode-remote.remote-ssh /home/jbernardis/.vscode/extensions/ms-vscode-remote.remote-ssh-0.78.0
+[2022-05-23 22:31:37.780] [sharedprocess] [info] Deleted from disk ms-toolsai.jupyter /home/jbernardis/.vscode/extensions/ms-toolsai.jupyter-2022.3.1000901801
+[2022-05-23 22:31:37.831] [sharedprocess] [info] Deleted from disk ms-python.vscode-pylance /home/jbernardis/.vscode/extensions/ms-python.vscode-pylance-2022.4.3
+[2022-05-23 22:31:37.834] [sharedprocess] [info] Deleted from disk ms-python.python /home/jbernardis/.vscode/extensions/ms-python.python-2022.4.1
+[2022-05-23 22:31:39.535] [sharedprocess] [info] Getting Manifest... ms-python.vscode-pylance
+[2022-05-23 22:31:39.867] [sharedprocess] [info] Installing extension: ms-python.vscode-pylance
+[2022-05-23 22:31:43.344] [sharedprocess] [info] Downloaded extension: ms-python.vscode-pylance /home/jbernardis/.config/Code/CachedExtensionVSIXs/ms-python.vscode-pylance-2022.5.2
+[2022-05-23 22:31:45.124] [sharedprocess] [info] Extracted extension to /home/jbernardis/.vscode/extensions/.0e7a36c1-ac7a-4ce2-9c8f-6ae9161fc345: ms-python.vscode-pylance
+[2022-05-23 22:31:45.128] [sharedprocess] [info] Renamed to /home/jbernardis/.vscode/extensions/ms-python.vscode-pylance-2022.5.2
+[2022-05-23 22:31:45.130] [sharedprocess] [info] Extracting completed. ms-python.vscode-pylance
+[2022-05-23 22:31:45.134] [sharedprocess] [info] Extension installed successfully: ms-python.vscode-pylance

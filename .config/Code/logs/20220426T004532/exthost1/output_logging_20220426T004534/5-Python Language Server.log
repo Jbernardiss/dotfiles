@@ -1,0 +1,11 @@
+[Info  - 12:45:35 AM] (2514) Pylance language server 2022.4.2 (pyright 90161194) starting
+[Info  - 12:45:35 AM] (2514) Server root directory: /home/jbernardis/.vscode/extensions/ms-python.vscode-pylance-2022.4.2/dist
+[Info  - 12:45:35 AM] (2514) No pyproject.toml file found.
+[Info  - 12:45:35 AM] (2514) Setting pythonPath for service "<default>": "/bin/python"
+[Warn  - 12:45:35 AM] (2514) stubPath typings is not a valid directory.
+[Info  - 12:45:35 AM] (2514) Assuming Python version 3.10
+[Info  - 12:45:35 AM] (2514) Assuming Python platform Linux
+[Info  - 12:45:35 AM] (2514) Searching for source files
+[Info  - 12:45:35 AM] (2514) No source files found.
+[Info  - 12:45:35 AM] (2514) Background analysis(1) root directory: /home/jbernardis/.vscode/extensions/ms-python.vscode-pylance-2022.4.2/dist
+[Info  - 12:45:35 AM] (2514) Background analysis(1) started

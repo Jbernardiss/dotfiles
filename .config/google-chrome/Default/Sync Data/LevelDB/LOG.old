@@ -1,0 +1,6 @@
+2022/05/23-22:31:25.034 c892 Reusing MANIFEST /home/jbernardis/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2022/05/23-22:31:25.034 c892 Recovering log #4
+2022/05/23-22:31:25.037 c892 Reusing old log /home/jbernardis/.config/google-chrome/Default/Sync Data/LevelDB/000004.log 
+2022/05/23-22:32:54.901 c985 Level-0 table #8: started
+2022/05/23-22:32:54.903 c985 Level-0 table #8: 90911 bytes OK
+2022/05/23-22:32:54.904 c985 Delete type=0 #4

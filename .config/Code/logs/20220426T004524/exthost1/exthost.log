@@ -1,0 +1,9 @@
+[2022-04-26 00:45:26.178] [exthost] [info] Extension host with pid 2244 started
+[2022-04-26 00:45:26.230] [exthost] [info] ExtensionService#_doActivateExtension ms-python.python, startup: false, activationEvent: 'onLanguage:python'
+[2022-04-26 00:45:26.401] [exthost] [info] ExtensionService#_doActivateExtension ms-toolsai.jupyter, startup: false, activationEvent: 'onLanguage:python'
+[2022-04-26 00:45:26.488] [exthost] [info] ExtensionService#_doActivateExtension vscode.debug-auto-launch, startup: true, activationEvent: '*'
+[2022-04-26 00:45:26.490] [exthost] [info] ExtensionService#_doActivateExtension vscode.git-base, startup: true, activationEvent: '*', root cause: vscode.git
+[2022-04-26 00:45:26.492] [exthost] [info] ExtensionService#_doActivateExtension vscode.ipynb, startup: true, activationEvent: '*'
+[2022-04-26 00:45:26.498] [exthost] [info] ExtensionService#_doActivateExtension naumovs.color-highlight, startup: true, activationEvent: '*'
+[2022-04-26 00:45:26.508] [exthost] [info] extension host terminating: renderer closed the socket
+[2022-04-26 00:45:26.508] [exthost] [info] Extension host with pid 2244 exiting with code 0

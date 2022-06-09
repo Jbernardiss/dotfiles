@@ -1,0 +1,5 @@
+audio.play_bitrate_non_metered_migrated=true
+gaia.attached_device_id="bb354f1ba64645ebc4c93c1580f92e70e579498e"
+audio.play_bitrate_enumeration=3
+audio.play_bitrate_non_metered_enumeration=3
+ui.show_friend_feed=false
